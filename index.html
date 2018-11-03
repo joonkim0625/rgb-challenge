@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>RGB CHALLENGE</title>
+  <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <!-- header -->
+    <div class="header">
+      <p class="header-text">
+        THE GREAT<br>
+        <span>RGB</span><br>
+        GUESSING CHALLENGE
+      </p>
+    </div>
+
+    <!-- main -->
+    <div class="main">
+      <p class="score">SCORE: <span class="current-score">0</span></p>
+
+      <div class="color-content">
+        <span class="rgbs"></span>
+        <ul class="color-options">
+          <li class="option"></li>
+          <li class="option"></li>
+          <li class="option"></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+
+  <!-- modals -->
+
+  <div class="modal-right">
+    <p>THATS RIGHT!</p>
+    <button class="next-btn">NEXT COLOR</button>
+  </div>
+
+  <div class="modal-wrong">
+    <p>TOO BAD :(<br>
+      <span class="final-score"></span>
+    </p>
+
+    <button class="restart-btn">PLAY AGAIN</button>
+  </div>
+
+
+  <script src="./index.js"></script>
+</body>
+
+</html>
