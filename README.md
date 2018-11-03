@@ -2,7 +2,7 @@
 
 [RGB-CHALLENGE](http://www.rgbchallenge.com/) 사이트를 최대한 비슷하게 만들어 본 실습입니다!
 
-
+[color-guess.netlify.com](https://color-guess.netlify.com/)에 오시면 확인하실 수 있습니다.
 
 ### 개선하고 싶은 점들
 

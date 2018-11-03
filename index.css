@@ -1,7 +1,6 @@
 @import url("./css/reset.css");
 @import url("./css/normalize.css");
-@import url(
-  http://fonts.googleapis.com/css?family=Source+Code+Pro:500|Montserrat:400,700);
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 html,
 body {
