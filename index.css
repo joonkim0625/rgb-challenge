@@ -87,7 +87,7 @@ body {
   font-weight: 800;
   line-height: 1.2;
   text-align: center;
-  transform: translateY(-40%);
+  transform: translateY(-50%);
 }
 .modal-wrong {
   display: none;
@@ -104,7 +104,7 @@ body {
   font-weight: 800;
   line-height: 1.2;
   text-align: center;
-  transform: translateY(-40%);
+  transform: translateY(-50%);
 }
 
 .modal-wrong span {
